@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Karol</h1>
-<h3 align="center">Mechanical Design engineer 👨‍💼 and coder 👨‍💻</h3>
+<h3 align="center">Mechanical Design engineer 👨‍💼 and future coder 👨‍💻</h3>
 
-- 🔭 I’m currently working on [My Portfolio Page](https://karolportfolio.netlify.app/)
+- 🔭 I’m currently working on Mini Projects to implement what i learned.
 
 - 🌱 I’m currently learning **JavaScript**
 
-- 👨‍💻 All of my projects are available at [https://karolportfolio.netlify.app/](https://karolportfolio.netlify.app/)
+- 👨‍💻 All of my projects are available at https://github.com/karol-prog?tab=repositories or [https://karolportfolio.netlify.app/](https://karolportfolio.netlify.app/), but i will add some in future.
 
 - 📫 How to reach me **michalik.karol18@gmail.com**
 
