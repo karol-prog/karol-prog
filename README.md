@@ -1,6 +1,5 @@
 <h1 align="center">Hi 👋, I'm Karol</h1>
-<h3 align="center">Mechanical Design engineer 👨‍💼 and future coder 👨‍💻</h3>
-<h4 align="center">Scrimba Student</h4>
+<h3 align="center">Mechanical Design engineer 👨‍💼 future coder 👨‍💻</h3>
 
 - 🔭 I’m currently working on Mini Projects to implement what I learned.
 
