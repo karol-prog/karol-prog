@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on Mini Projects to implement what I learned.
 
-- 🌱 I’m currently learning **React** with Scrimba
+- 🌱 I’m currently learning **React, Tailwind** with Scrimba
 
 - 👨‍💻 All of my projects are available at https://github.com/karol-prog?tab=repositories or [https://karolportfolio.netlify.app/](https://karolportfolio.netlify.app/).
 
